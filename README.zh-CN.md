@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aircards.org/zh-CN/"><img src="assets/aircards-cover.jpg" alt="AirCards — 探索卡面设计" width="960"></a></p>
+<p align="center"><a href="https://aircards.org/zh-CN/"><img src="assets/aircards-cover.jpg?v=2" alt="AirCards — 探索卡面设计" width="960"></a></p>
 
 # AirCards
 

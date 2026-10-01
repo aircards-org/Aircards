@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aircards.org"><img src="assets/aircards-cover.jpg" alt="AirCards — Explore card designs" width="960"></a></p>
+<p align="center"><a href="https://aircards.org"><img src="assets/aircards-cover.jpg?v=2" alt="AirCards — Explore card designs" width="960"></a></p>
 
 # AirCards
 
