@@ -1,0 +1,31 @@
+name: Bug report / 问题反馈
+description: Report a problem with the AirCards website / 反馈网站使用问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "English or 中文 are welcome. Issues are public; do not share private information. / Issue 公开可见，请勿填写私人信息。"
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / 问题描述
+      description: What happened, and what did you expect? / 实际发生了什么？期望结果是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      description: Include the affected public page URL if useful. / 可附上相关公开页面链接。
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Device and browser / 设备与浏览器
+      placeholder: "iPhone, iOS, Safari / Mac, macOS, Chrome"
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or additional context / 截图或补充信息
+      description: Remove private information before attaching images. / 上传前请遮盖私人信息。

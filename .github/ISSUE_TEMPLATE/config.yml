@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Usage guide / 使用指南
+    url: https://aircards.org/zh-CN/guide/
+    about: Learn how to use card artwork / 查看卡面使用说明
+  - name: Private support and artwork requests / 私密反馈与素材问题
+    url: https://aircards.org/zh-CN/contact/
+    about: Account, security, or artwork correction and removal requests / 账号、安全及素材更正或撤下申请

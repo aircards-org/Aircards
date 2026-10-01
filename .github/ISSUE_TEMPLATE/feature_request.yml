@@ -1,0 +1,21 @@
+name: Feature request / 功能建议
+description: Suggest an improvement to AirCards / 提出产品改进建议
+title: "[Idea] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do? / 你想解决什么问题？
+      description: Describe your use case. / 请描述使用场景。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement / 改进建议
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Alternatives or examples / 替代方案或参考示例
