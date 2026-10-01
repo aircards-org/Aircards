@@ -6,3 +6,6 @@ contact_links:
   - name: Private support and artwork requests / 私密反馈与素材问题
     url: https://aircards.org/zh-CN/contact/
     about: Account, security, or artwork correction and removal requests / 账号、安全及素材更正或撤下申请
+  - name: AirCard installation and compatibility / AirCard 安装与兼容性
+    url: https://aircards.org/zh-CN/guide/
+    about: Find the project and support channel for your platform / 查找对应平台项目及反馈入口

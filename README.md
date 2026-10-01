@@ -6,6 +6,8 @@
 
 [Visit AirCards](https://aircards.org/en/) · [Getting started](https://aircards.org/en/guide/) · [FAQ](https://aircards.org/en/faq/) · [简体中文](README.zh-CN.md)
 
+**Need help?** [Ask a question](https://github.com/aircards-org/aircards/issues/new?template=question.yml) · [Report a bug](https://github.com/aircards-org/aircards/issues/new?template=bug_report.yml) · [Suggest a feature](https://github.com/aircards-org/aircards/issues/new?template=feature_request.yml) · [Browse existing issues](https://github.com/aircards-org/aircards/issues)
+
 AirCards brings together curated card artwork and creator submissions to help you find a design for your own Apple Wallet cards.
 
 ## Explore, create, share
@@ -25,9 +27,11 @@ AirCards is an artwork website. **AirCard** is a separate project used to change
 
 ## Feedback
 
-Found a website problem or have an idea? [Open an issue](https://github.com/aircards-org/aircards/issues/new/choose) in English or Chinese.
+Have a usage question, found a website problem, or have an idea? [Open an issue](https://github.com/aircards-org/aircards/issues/new/choose) in English or Chinese.
 
-For account questions, security concerns, or artwork correction/removal requests, contact **contact@aircards.org**. Please do not include card numbers, account credentials, or other private information in public issues.
+Posting requires a GitHub account. For AirCard installation, device compatibility, or Wallet changes, use the platform-specific projects linked in our [guide](https://aircards.org/en/guide/).
+
+For account questions, privacy or security concerns, or artwork correction/removal requests, contact **contact@aircards.org**. Please do not include card numbers, account credentials, or other private information in public issues.
 
 ## About this repository
 

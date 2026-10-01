@@ -6,6 +6,8 @@
 
 [访问官网](https://aircards.org/zh-CN/) · [使用指南](https://aircards.org/zh-CN/guide/) · [常见问题](https://aircards.org/zh-CN/faq/) · [English](README.md)
 
+**需要帮助？** [使用咨询](https://github.com/aircards-org/aircards/issues/new?template=question.yml) · [问题反馈](https://github.com/aircards-org/aircards/issues/new?template=bug_report.yml) · [功能建议](https://github.com/aircards-org/aircards/issues/new?template=feature_request.yml) · [查看已有问题](https://github.com/aircards-org/aircards/issues)
+
 AirCards 汇集精选卡面和创作者投稿，帮助你为自己设备上的 Apple 钱包卡片找到喜欢的设计。
 
 ## 探索、创作与分享
@@ -25,9 +27,11 @@ AirCards 是卡面素材与创作网站。**AirCard** 是独立项目，用于�
 
 ## 反馈与联系
 
-遇到网站问题或有功能建议？欢迎用中文或英文[提交 Issue](https://github.com/aircards-org/aircards/issues/new/choose)。
+对网站使用有疑问、遇到问题或有功能建议？欢迎用中文或英文[提交 Issue](https://github.com/aircards-org/aircards/issues/new/choose)。
 
-账号问题、安全问题、素材更正或撤下申请，请联系 **contact@aircards.org**。请勿在公开 Issue 中提交卡号、账号凭据或其他私人信息。
+提交 Issue 需要 GitHub 账号。AirCard 安装、设备兼容性和钱包修改问题，请通过[使用指南](https://aircards.org/zh-CN/guide/)中的对应平台项目反馈。
+
+账号问题、隐私或安全问题、素材更正或撤下申请，请联系 **contact@aircards.org**。请勿在公开 Issue 中提交卡号、账号凭据或其他私人信息。
 
 ## 关于本仓库
 

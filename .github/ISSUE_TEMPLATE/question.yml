@@ -1,0 +1,38 @@
+name: Usage question / 使用咨询
+description: Ask about the AirCards website / 咨询 AirCards 网站使用方法
+title: "[Question] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Questions in English or Chinese are welcome. Please search existing issues first.
+        欢迎用中文或英文提问，提交前请先查看已有问题。
+
+        This form is for AirCards website questions. For AirCard installation, device compatibility, or Wallet changes, use the platform-specific projects linked in our guide: https://aircards.org/en/guide/
+        本表单用于 AirCards 网站咨询。AirCard 安装、设备兼容性或钱包修改问题，请通过使用指南中的对应平台项目反馈：https://aircards.org/zh-CN/guide/
+
+        Issues are public. Do not share card numbers, credentials, or other private information. Email contact@aircards.org for account, privacy, security, or artwork correction/removal requests.
+        Issue 公开可见，请勿提交卡号、账号凭据或其他私人信息。账号、隐私、安全及素材更正或撤下请求，请发邮件至 contact@aircards.org。
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do? / 你想完成什么？
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Where do you need help? / 在哪一步遇到困难？
+      description: Describe your question and what you have already tried. / 描述你的疑问和已经尝试的方法。
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Related public page / 相关公开页面
+      description: Optional. Do not paste private or sign-in callback URLs. / 选填，请勿粘贴私密链接或登录回调地址。
+  - type: textarea
+    id: context
+    attributes:
+      label: Device or screenshots / 设备信息或截图
+      description: Optional. Remove private information from screenshots. / 选填，截图请遮盖私人信息。
