@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aircards.org/en/"><img src="assets/aircards-cover.jpg?v=3" alt="AirCards — Card artwork, made by the community" width="960"></a></p>
+<p align="center"><a href="https://aircards.org/en/"><img src="assets/aircards-cover.jpg?v=4" alt="AirCards — Official cards, community cards, and an online studio for card artwork" width="960"></a></p>
 
 # AirCards
 
