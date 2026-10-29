@@ -1,21 +1,39 @@
-name: Feature request / 功能建议
-description: Suggest an improvement to AirCards / 提出产品改进建议
+name: Feature request
+description: Suggest an improvement to the AirCards website
 title: "[Idea] "
+labels: [enhancement]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for ideas about the **AirCards website** only. Requests for the AirCard app belong in the platform-specific project listed in our [guide](https://aircards.org/en/guide/).
+
+        Issues are public. Do not share private information.
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Before you submit
+      options:
+        - label: This is about the AirCards website (aircards.org), not the AirCard app.
+          required: true
+        - label: I searched existing issues for a similar idea.
+          required: true
   - type: textarea
     id: need
     attributes:
-      label: What would you like to do? / 你想解决什么问题？
-      description: Describe your use case. / 请描述使用场景。
+      label: What would you like to do?
+      description: Describe your use case and the problem you are trying to solve.
     validations:
       required: true
   - type: textarea
     id: suggestion
     attributes:
-      label: Suggested improvement / 改进建议
+      label: Suggested improvement
+      description: How could AirCards help?
     validations:
       required: true
   - type: textarea
     id: context
     attributes:
-      label: Alternatives or examples / 替代方案或参考示例
+      label: Alternatives or examples
+      description: Optional. Workarounds you use today, or examples from other products.
